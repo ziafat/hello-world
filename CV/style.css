@@ -1,0 +1,26 @@
+h1{
+    background-color: rgb(33, 166, 166);
+}
+#maindiv{
+    border : black 2px solid;
+}
+table tr td{
+    text-align:  center;
+    
+}
+table{
+    margin-left: 20px;
+}
+.bt{
+    padding-left: 20px;
+}
+#id2{
+    padding-left: 5px;
+}
+.hi{
+    background-color: black;
+    color:white;
+}
+#cont{
+    padding-left: 20px;
+}
